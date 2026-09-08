@@ -108,6 +108,3 @@ If you find this work useful, please consider citing:
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
-
-## **📬 Contact**
-For questions, reach out via [adityapadgal@gmail.com](mailto:adityapadgal@gmail.com) or open an issue.
